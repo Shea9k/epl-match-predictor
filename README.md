@@ -120,6 +120,3 @@ All 20 2024/25 Premier League teams with stats approximated from current season 
 
 ---
 
-## License
-
-MIT — free to use, modify, and distribute.
